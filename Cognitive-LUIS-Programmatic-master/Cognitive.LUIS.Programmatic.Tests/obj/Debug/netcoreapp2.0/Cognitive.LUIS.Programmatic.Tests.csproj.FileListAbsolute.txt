@@ -1,0 +1,16 @@
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.deps.json
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.runtimeconfig.json
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.runtimeconfig.dev.json
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.pdb
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\bin\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.pdb
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\obj\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\obj\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\obj\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.AssemblyInfoInputs.cache
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\obj\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.AssemblyInfo.cs
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\obj\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic.Tests\obj\Debug\netcoreapp2.0\Cognitive.LUIS.Programmatic.Tests.pdb

@@ -1,0 +1,9 @@
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\bin\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.deps.json
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\bin\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\bin\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.pdb
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\obj\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.csprojResolveAssemblyReference.cache
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\obj\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.csproj.CoreCompileInputs.cache
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\obj\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.AssemblyInfoInputs.cache
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\obj\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.AssemblyInfo.cs
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\obj\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.dll
+C:\Users\TangKang\Downloads\Cognitive-LUIS-Programmatic-master\Cognitive.LUIS.Programmatic\obj\Debug\netstandard2.0\Cognitive.LUIS.Programmatic.pdb
